@@ -6,7 +6,7 @@ Projeto utilizando o framework PHP Yii 2.0 para realização do processo seletiv
 
 - [x] Pré-Requisitos
 - [x] Configuração do pré requisito
-- [x] configuração Login Yii
+- [x] Configuração Login Yii
 - [x] Configurando o BD
 - [x] Aplicações do GII
 - [x] Corrigir Views
