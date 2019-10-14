@@ -71,4 +71,4 @@ O yii possui uma maneira bem fácil de se realizar as consultas. Em questão de 
 
 ## Comentário sobre o Projeto
 
-Na minha opinião eu achei esse framework incrível e que vale a pena estudar, aprender a utilizar e 100% da capacidade que pode oferecer pois facilita muitas coisas e são fáceis de se presta modificação. Deixo aqui meu agradecimento a empresa Devell pela oportunidade.
+Na minha opinião eu achei esse framework incrível e que vale a pena estudar, aprender a utilizar 100% da sua capacidade, pois facilita muitas coisas e são fáceis de se presta modificação. Deixo aqui meu agradecimento a empresa Devell pela oportunidade.
