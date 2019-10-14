@@ -2,7 +2,7 @@
 
 Projeto utilizando o framework PHP Yii 2.0 para realização do processo seletivo da DEVELL.
 
-# Indices
+# Indice
 
 - [x] Pré-Requisitos
 - [x] Configuração do pré requisito
